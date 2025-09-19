@@ -42,7 +42,6 @@ Main libraries used:
 ## Dataset
 
 The project uses the **MNIST dataset**, which contains 70,000 handwritten digit images (0–9).  
-If not already in the `data/` folder, it will be automatically downloaded by `torchvision`.
 
 ## Results
 
